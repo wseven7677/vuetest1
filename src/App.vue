@@ -12,7 +12,7 @@
           background-color="#545c64"
           text-color="#fff"
           active-text-color="#ffd04b">
-          <el-menu-item index="1">首页</el-menu-item>
+          <el-menu-item index="1">首页this is</el-menu-item>
           <el-menu-item index="2">迎机史志</el-menu-item>
           <el-menu-item index="3">迎机图片</el-menu-item>
           <el-menu-item index="4">迎机人物</el-menu-item>
